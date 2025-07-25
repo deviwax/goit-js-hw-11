@@ -32,7 +32,7 @@ export function clearGallery() {
 }
 
 export function showLoader() {
-    loader.lassList.remove('hidden');
+    loader.classList.remove('hidden');
 }
 
 export function hideLoader() {
