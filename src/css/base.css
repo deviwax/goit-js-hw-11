@@ -82,13 +82,3 @@ button {
 button:hover {
   background: #6c8cff;
 }
-
-.gallery {
-  flex-direction: row;
-  width: calc((100% - 24px) / 3);
-  border: 1px solid #808080;
-}
-
-.info {
-  flex-direction: column;
-}
